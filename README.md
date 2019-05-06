@@ -1,7 +1,7 @@
 # PD_Impute
 Interpolation and K-Nearest Neighbours Combined Imputation for Longitudinal ICU Laboratory Data
 
-./code/PD_Impute_interp+knn_test.R <- source this file to run the imputation on the TEST set data with linear interpolation first and then the KNN algorithm
+./code/PD_Impute_interp+knn_test.R <- source this file to run the imputation on the TEST set data with linear interpolation first and then the KNN algorithm; please set the path variables to the current TEST data location on your system
 
 ./code/mean.values.train.na.RData <- this file contains the mean values of each of the 13 analytes in the training dataset
 
